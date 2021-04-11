@@ -33,6 +33,6 @@ I'm a frontend developer who is passionate about learning JavaScript in all its 
 </a>    
 
 
-## U+1F469, U+1F3FB, U+200D, U+1F4BB; You can find me on
+## 	👩🏻‍💻 You can find me on
 - <a href="https://dev.to/cocotlandia">DEV Community</a> Writing articles about my life as a developer.
 - <a href="https://www.linkedin.com/in/ariadnamaldonado1/">Linkedin</a> Sharing posts about our events in WWCodeBA.
