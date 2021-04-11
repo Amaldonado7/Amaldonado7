@@ -38,8 +38,8 @@ I'm a frontend developer who is passionate about learning JavaScript in all its 
 
 <!-- icons with padding -->
 
-[1.1]: https://github.com/Amaldonado7/Ariadna/blob/4611cdca274606863c4be06e80f4957fc90efbcb/dev-brands.svg
-[2.1]: https://github.com/Amaldonado7/Ariadna/blob/4611cdca274606863c4be06e80f4957fc90efbcb/linkedin-brands.svg
+[1.1]: https://github.com/Amaldonado7/Ariadna/blob/e3e6eea6cf99fe375151ee2bb91034655598c9a4/dev-dot-to.svg
+[2.1]: https://github.com/Amaldonado7/Ariadna/blob/e3e6eea6cf99fe375151ee2bb91034655598c9a4/linkedin.svg
 
 <!-- links to your social media accounts -->
 
