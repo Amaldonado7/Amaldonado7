@@ -31,18 +31,5 @@ I'm a frontend developer who is passionate about learning JavaScript in all its 
 </a>    
 
 ## You can find me on
-- [![Dev.to][1.1]][1] Writing articles about my life as a developer.
-- [![LinkedIn][2.1]][2] Sharing posts about our events in WWCodeBA.
-
-<!-- links to social media icons -->
-
-<!-- icons with padding -->
-
-[1.1]: https://github.com/Amaldonado7/Ariadna/blob/e3e6eea6cf99fe375151ee2bb91034655598c9a4/dev-dot-to.svg
-[2.1]: https://github.com/Amaldonado7/Ariadna/blob/e3e6eea6cf99fe375151ee2bb91034655598c9a4/linkedin.svg
-
-<!-- links to your social media accounts -->
-
-[1]: https://dev.to/cocotlandia
-[2]: https://www.linkedin.com/in/ariadnamaldonado1/
-
+- <a href="https://dev.to/cocotlandia">DEV Community</a> Writing articles about my life as a developer.
+- <a href="https://www.linkedin.com/in/ariadnamaldonado1/">Linkedin</a> Sharing posts about our events in WWCodeBA.
