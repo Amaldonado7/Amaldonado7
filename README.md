@@ -26,7 +26,23 @@ I'm a frontend developer who is passionate about learning JavaScript in all its 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Amaldonado7&repo=Globify-Vanillajs&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-
 <a href="https://github.com/Amaldonado7/Globify-Angular">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Amaldonado7&repo=Globify-Angular&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
+
+## You can find me on
+- [![Dev.to][1.1]][1] Writing articles about my life as a developer.
+- [![LinkedIn][2.1]][2] Sharing posts about our events in WWCodeBA.
+
+<!-- links to social media icons -->
+
+<!-- icons with padding -->
+
+[1.1]: https://github.com/Amaldonado7/Ariadna/blob/4611cdca274606863c4be06e80f4957fc90efbcb/dev-brands.svg
+[2.1]: https://github.com/Amaldonado7/Ariadna/blob/4611cdca274606863c4be06e80f4957fc90efbcb/linkedin-brands.svg
+
+<!-- links to your social media accounts -->
+
+[1]: https://dev.to/cocotlandia
+[2]: https://www.linkedin.com/in/ariadnamaldonado1/
+
