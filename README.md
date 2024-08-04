@@ -4,7 +4,7 @@
 </em></p>
 
 [![Linkedin: ariadnamaldonado1](https://img.shields.io/badge/-ariadnamaldonado1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/ariadnamaldonado1/)
-[![GitHub Amaldonado7](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Amaldonado7)
+[![GitHub Amaldonado7](https://img.shields.io/github/followers/Amaldonado7?label=follow&style=social)](https://github.com/Amaldonado7)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -13,7 +13,7 @@
 const ari = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, Java, PHP],
-  tools: [React, Redux, Node, Storybook, SASS, Styled-Components, Jest, Docker],
+  tools: [React, Redux, Node, Storybook, Sass, Styled-Components, Jest, Docker],
   architecture: ["microservices", "design system pattern"],
   techCommunities: ["Women Who Code", "Mujeres en Tecnología"]
 }
