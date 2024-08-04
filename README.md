@@ -13,7 +13,7 @@
 const ari = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, Java, PHP],
-  tools: [React, Redux, Node, Storybook, Sass, Styled-Components, Jest, Docker],
+  tools: [React, Remix, Next, Redux, Node, Storybook, Sass, Styled-Components, Jest, Docker],
   architecture: ["microservices", "design system pattern"],
   techCommunities: ["Women Who Code", "Mujeres en Tecnología"]
 }
