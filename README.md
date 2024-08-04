@@ -1,38 +1,27 @@
-# Hi there, I'm Ariadna 👋
+<h2> Hi, I'm Ariadna Maldonado! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://github.com/user-attachments/assets/7e884b80-ae9f-4e17-b56c-66a79493ef87" width="230">
+<p><em>Engineering Manager at <a href="https://www.modo.com.ar/?utm_source=google&utm_medium=cpc&utm_campaign=brand&utm_term=search&utm_content=text-ad-brand&gad_source=1&gclid=Cj0KCQjwzby1BhCQARIsAJ_0t5NhshqPiB0PEoOy8EHfIAM07ythWyduYuJsYlRyWg8k-8vwISXke8YaAoCQEALw_wcB">MODO</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Technology Analyst student at <a href="https://davinci.edu.ar/?gad_source=1&gclid=Cj0KCQjwzby1BhCQARIsAJ_0t5O7scMOcwGASFCq3jDX99chOStScUh8_W4PO8x4i4fm0CDeydvO5b8aAr2xEALw_wcB">Da Vinci</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<img src="https://github.com/Amaldonado7/Ariadna/blob/ee08aaacb7b7ef551c3d69e704b162750bf37098/Banner-github.png" alt="banner that says Ariadna Maldonado - Frontend Developer alongside a picture of me and my daughter">
-
-I'm a frontend developer who is passionate about learning JavaScript in all its layers, creating apps using different kinds of technology, and building community. Some technologies I enjoy working with include React and Nextjs. My interest in the community ecosystem led me to become one of the directors from <a href="https://www.womenwhocode.com/buenosaires">Women Who Code Buenos Aires</a>, a community that inspires women to excel in technology careers.
-
-
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Editor-Visual-Studio-Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+[![Linkedin: ariadnamaldonado1](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/ariadnamaldonado1/)
+[![GitHub Amaldonado7](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Amaldonado7)
 
 
-## &#x1f4c8; GitHub Stats
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-<a href="https://github.com/Amaldonado7/Ariadna">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amaldonado7&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+```javascript
+const ari = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, Java, PHP],
+  tools: [React, Redux, Node, Storybook, SASS, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "design system pattern"],
+  techCommunities: ["Women Who Code", "Mujeres en Tecnología"]
+}
+```
 
-<a href="https://github.com/Amaldonado7/Ariadna">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Amaldonado7&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ariadna's GitHub Stats" />
-</a>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-<a href="https://github.com/Amaldonado7/microfrontend-poc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Amaldonado7&repo=microfrontend-poc&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/Amaldonado7/Globify-Angular">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Amaldonado7&repo=Globify-Angular&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
-
+---
 
 ## 	👩🏻‍💻 You can find me on
 - <a href="https://dev.to/cocotlandia">DEV Community</a> Writing articles about my life as a developer.
-- <a href="https://www.linkedin.com/in/ariadnamaldonado1/">Linkedin</a> Sharing posts about our events in WWCodeBA.
